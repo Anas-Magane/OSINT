@@ -4,11 +4,11 @@
 
 # Aramon OSINT Toolkit
 
-### Official Aramon OSINT Toolkit
+### Personal Mirror / Showcase
 
 A curated Open Source Intelligence toolkit and knowledge base for cybersecurity students, researchers, analysts, and authorized investigations.
 
-[![Official](https://img.shields.io/badge/status-official%20Aramon%20project-0a0a0a?style=flat-square&labelColor=111)](https://github.com/Aramon-IT)
+[![Personal Mirror](https://img.shields.io/badge/status-personal%20mirror-0a0a0a?style=flat-square&labelColor=111)](https://github.com/Aramon-IT/OSINT)
 [![Tools](https://img.shields.io/badge/tools-32-0a0a0a?style=flat-square&labelColor=111)](#-tool-directory)
 [![Categories](https://img.shields.io/badge/categories-13-0a0a0a?style=flat-square&labelColor=111)](#-tool-directory)
 [![License](https://img.shields.io/badge/license-MIT-0a0a0a?style=flat-square&labelColor=111)](LICENSE)
@@ -18,7 +18,7 @@ A curated Open Source Intelligence toolkit and knowledge base for cybersecurity 
 
 ---
 
-> 🏛️ **This is the official, canonical repository of the Aramon OSINT Toolkit**, maintained under the **[Aramon-IT](https://github.com/Aramon-IT)** GitHub organization. A personal showcase mirror also exists at [Anas-Magane/OSINT](https://github.com/Anas-Magane/OSINT) — for the latest updates, always refer to this repository.
+> 👤 **This is a personal showcase mirror maintained by [@Anas-Magane](https://github.com/Anas-Magane).** The **official, actively maintained source of truth** is **[Aramon-IT/OSINT](https://github.com/Aramon-IT/OSINT)**, maintained under the Aramon Institute of IT organization — refer there for the latest updates and to contribute.
 
 A curated collection of OSINT tools, resources, methodologies, and practical references maintained by **Aramon Institute of IT**. Built for cybersecurity researchers, students, journalists, and anyone conducting lawful, ethical open-source investigations — from a first search to a full attack-surface assessment.
 
@@ -162,8 +162,8 @@ Modest, honest goals — no exaggerated claims:
 
 <div align="center">
 
-Official project of **[Aramon Institute of IT](https://github.com/Aramon-IT)** · [MIT License](LICENSE) · [Code of Conduct](CODE_OF_CONDUCT.md)
+Personal mirror by **[@Anas-Magane](https://github.com/Anas-Magane)** · [MIT License](LICENSE) · [Code of Conduct](CODE_OF_CONDUCT.md)
 
-Personal showcase mirror: [Anas-Magane/OSINT](https://github.com/Anas-Magane/OSINT)
+Official project: **[Aramon-IT/OSINT](https://github.com/Aramon-IT/OSINT)** — maintained by Aramon Institute of IT
 
 </div>
