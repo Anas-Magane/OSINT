@@ -2,19 +2,23 @@
 
 <img src="assets/aramon-logo.png" alt="Aramon" width="120" />
 
-# Aramon OSINT
+# Aramon OSINT Toolkit
 
-### Open Source Intelligence Toolkit & Knowledge Base
+### Official Aramon OSINT Toolkit
 
+A curated Open Source Intelligence toolkit and knowledge base for cybersecurity students, researchers, analysts, and authorized investigations.
+
+[![Official](https://img.shields.io/badge/status-official%20Aramon%20project-0a0a0a?style=flat-square&labelColor=111)](https://github.com/Aramon-IT)
 [![Tools](https://img.shields.io/badge/tools-32-0a0a0a?style=flat-square&labelColor=111)](#-tool-directory)
 [![Categories](https://img.shields.io/badge/categories-13-0a0a0a?style=flat-square&labelColor=111)](#-tool-directory)
 [![License](https://img.shields.io/badge/license-MIT-0a0a0a?style=flat-square&labelColor=111)](LICENSE)
 [![Maintained](https://img.shields.io/badge/maintained-yes-0a0a0a?style=flat-square&labelColor=111)](CHANGELOG.md)
-[![Aramon](https://img.shields.io/badge/by-Aramon%20Institute%20of%20IT-0a0a0a?style=flat-square&labelColor=111)](https://github.com/Anas-Magane)
 
 </div>
 
 ---
+
+> 🏛️ **This is the official, canonical repository of the Aramon OSINT Toolkit**, maintained under the **[Aramon-IT](https://github.com/Aramon-IT)** GitHub organization. A personal showcase mirror also exists at [Anas-Magane/OSINT](https://github.com/Anas-Magane/OSINT) — for the latest updates, always refer to this repository.
 
 A curated collection of OSINT tools, resources, methodologies, and practical references maintained by **Aramon Institute of IT**. Built for cybersecurity researchers, students, journalists, and anyone conducting lawful, ethical open-source investigations — from a first search to a full attack-surface assessment.
 
@@ -29,6 +33,33 @@ This is not a dump of links. Every tool listed here has been evaluated for maint
 **[📥 Download the Aramon OSINT Guide (PDF)](docs/OSINT_Guide_Aramon.pdf)**
 
 A companion guide to this repository — read it alongside the living, continuously updated content here on GitHub.
+
+---
+
+## Table of Contents
+
+- [Quick Start](#-quick-start)
+- [Navigation](#navigation)
+- [Tool Directory](#-tool-directory)
+- [Guides](#-guides)
+- [Resources](#%EF%B8%8F-resources)
+- [Contributing](#-contributing)
+- [Legal & Ethical Use](#%EF%B8%8F-legal--ethical-use)
+- [Security](#-security)
+- [Roadmap](#%EF%B8%8F-roadmap)
+
+---
+
+## 🚦 Quick Start
+
+New to this repository? Follow this path:
+
+1. **Read first:** [Getting Started](docs/getting-started.md) — what OSINT is, passive vs. active, verification.
+2. **Understand the workflow:** [Methodology](docs/methodology.md) — the 13-step process used throughout this repo.
+3. **Protect yourself:** [OPSEC](docs/opsec.md) — before you run any tool against a real target.
+4. **Know the boundaries:** [Legal & Ethical Use](docs/legal-and-ethical-use.md) — required reading, no exceptions.
+5. **Pick a tool:** browse the [Tool Directory](#-tool-directory) below or a [category folder](tools/) directly.
+6. **Go deeper:** download the [Aramon OSINT Guide (PDF)](docs/OSINT_Guide_Aramon.pdf).
 
 ---
 
@@ -119,10 +150,20 @@ This repository is for education, cybersecurity research, defensive security, jo
 
 Found a malicious link, an accidentally-committed secret, or a tool that's turned unsafe? See [SECURITY.md](SECURITY.md) for responsible disclosure.
 
+## 🗺️ Roadmap
+
+Modest, honest goals — no exaggerated claims:
+
+- Periodic review of tool maintenance status (quarterly link/status check).
+- Expand tool write-ups as new categories prove genuinely useful (quality over quantity — see the [curation checklist](CONTRIBUTING.md#before-you-submit-quality-checklist)).
+- Community contributions for broken links and outdated entries via [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ---
 
 <div align="center">
 
-Maintained by **[Aramon Institute of IT](https://github.com/Anas-Magane)** · [MIT License](LICENSE) · [Code of Conduct](CODE_OF_CONDUCT.md)
+Official project of **[Aramon Institute of IT](https://github.com/Aramon-IT)** · [MIT License](LICENSE) · [Code of Conduct](CODE_OF_CONDUCT.md)
+
+Personal showcase mirror: [Anas-Magane/OSINT](https://github.com/Anas-Magane/OSINT)
 
 </div>
